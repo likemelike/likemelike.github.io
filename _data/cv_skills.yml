@@ -1,17 +1,8 @@
-- name: Cooking
+- name: Java
+  level: 90
+
+- name: Python
   level: 70
 
-- name: Eating
-  level: 80
-
-- name: Honest
-  level: 95
-
-- name: Confident
-  level: 75
-
-- name: Loyal
-  level: 95
-
-- name: Sleeping
-  level: 60
+- name: Matlab
+  level: 50
