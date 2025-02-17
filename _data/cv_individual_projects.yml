@@ -1,11 +1,35 @@
-- title: Sample Individual Project 1
+- title: Relaxed group pattern detection over massive-scale trajectories
   link: http://www.google.com
-  time: Dec 2016 - Dec 2017
-  company: Student at You Don't Care University
-  info: Additional information about project.
+  time: 2023
+  company: Ke Li, Hongyu Wang, Ziwen Chen, Lisi Chen
+  info: FGCS,131-139
 
-- title: Sample Individual Project 2
+- title: Deep unified attention-based sequence modeling for online anomalous trajectory detection
   link: http://www.google.com
-  time: Dec 2014
-  company: Student at You Don't Care University
-  info: Additional information about project.
+  time: 2023
+  company: Chenhao Wang, Ke Li, Lisi Chen
+  info: FGCS: 1-11
+
+- title: Towards Controlling the Transmission of Diseases: Continuous Exposure Discovery over Massive-Scale Moving Objects
+  link: http://www.google.com
+  time: 2022
+  company: Ke Li, Lisi Chen, Shuo Shang, Haiyan Wang, Yang Liu, Panos Kalnis, Bin Yao
+  info: IJCAI: 3891-3897
+
+- title: Traffic Congestion Alleviation over Dynamic Road Networks: Continuous Optimal Route Combination for Trip Query Streams.
+  link: http://www.google.com
+  time: 2021
+  company: Ke Li, Lisi Chen, Shuo Shang, Panos Kalnis, Bin Yao
+  info: IJCAI: 3656-3662
+
+- title: Route Search and Planning: A Survey
+  link: http://www.google.com
+  time: 2021
+  company: Ke Li, Xuan Rao, XiaoBing Pang, Lisi Chen, Siqi Fan
+  info: Big Data Res. 26: 100246
+
+- title: Towards alleviating traffic congestion: Optimal route planning for massive-scale trips
+  link: http://www.google.com
+  time: 2020
+  company: Ke Li, Lisi Chen, and Shuo Shang
+  info: IJCAI: 3400–3406
